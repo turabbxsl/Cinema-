@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\bin\Debug\Sinema Proqrami.exe.config
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\bin\Debug\Sinema Proqrami.exe
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\bin\Debug\Sinema Proqrami.pdb
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema Proqrami.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema_Proqrami.Form1.resources
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema_Proqrami.Properties.Resources.resources
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema Proqrami.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema Proqrami.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema Proqrami.exe
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema Proqrami.pdb
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema_Proqrami.filmekle.resources
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema_Proqrami.frmsalonekle.resources
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema_Proqrami.frmseansekle.resources
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema_Proqrami.frmsatislisteleme.resources
+C:\Users\HP\source\repos\Sinema Proqrami\Sinema Proqrami\obj\Debug\Sinema_Proqrami.frmseanslisteleme.resources
